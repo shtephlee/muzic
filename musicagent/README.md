@@ -165,3 +165,8 @@ If you use this code, please cite it as:
   year={2023}
 }
 ```
+
+TODO:
+- identification (sample, drum pattern, instruments, freq, timbre)
+- classification (sub-genre, mood, style...)
+- tutor to teach sampling/drum pattern/sound mixing
